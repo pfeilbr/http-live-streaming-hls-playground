@@ -1,8 +1,10 @@
 # http-live-streaming-hls-playground
 
+example of creating an HTTP Live Stream video stream from an h.264 video file.
+
 ### Prerequisites
 
-* download "HTTP Live Streaming Tools" from https://developer.apple.com/download/more/?=HLS
+* download and install "HTTP Live Streaming Tools" from https://developer.apple.com/download/more/?=HLS (binaries are installed to `/usr/local/bin`)
     > need to login with apple developer account
 
 ### Running
